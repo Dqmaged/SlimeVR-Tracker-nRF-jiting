@@ -2,7 +2,7 @@
 # SPDX-License-Identifier: Apache-2.0
 
 board:
-  name: kawazu_v1.1_uf2
+  name: kawazu_v1_1_uf2
   full_name: Kawazu
   vendor: nekumori
   socs:
